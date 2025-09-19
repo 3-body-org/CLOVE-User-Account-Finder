@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find CLOVE Account</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1 class="app-title">
+                    <span class="clove-logo">🍀</span>
+                    CLOVE Account Finder
+                </h1>
+                <p class="app-subtitle">Find your student account details</p>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="search-section">
+                <div class="search-card">
+                    <h2 class="search-title">Enter Your Surname</h2>
+                    <form class="search-form" id="searchForm">
+                        <div class="input-group">
+                            <input 
+                                type="text" 
+                                id="surnameInput" 
+                                class="search-input" 
+                                placeholder="e.g. Santos, Smith, etc."
+                                required
+                                autocomplete="off"
+                            >
+                            <button type="submit" class="search-btn" id="searchBtn">
+                                <span class="btn-text">Find Account</span>
+                                <div class="loading-spinner hidden" id="loadingSpinner"></div>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="results-section" id="resultsSection">
+                <div class="results-container hidden" id="resultsContainer">
+                    <!-- Account details will be displayed here -->
+                </div>
+                
+                <div class="not-found-container hidden" id="notFoundContainer">
+                    <div class="not-found-card">
+                        <div class="not-found-icon">❌</div>
+                        <h3 class="not-found-title">Account Not Found</h3>
+                        <p class="not-found-message">
+                            We couldn't find an account with that surname. Please check the spelling and try again.
+                        </p>
+                        <button class="try-again-btn" id="tryAgainBtn">Try Again</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p class="footer-text">CLOVE Learning Platform © 2025</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
