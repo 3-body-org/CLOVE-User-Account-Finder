@@ -1,362 +1,122 @@
 [
   {
-    "Name": "Queency Santos",
-    "Year Level": "Irregular",
-    "Mode": "a",
-    "Email": "adaptive1@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Santos"
+    "surname": "Villegas",
+    "adaptive_account": "adaptive1@clove.com",
+    "nonadaptive_account": "nonadaptive1@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Katrina Villalon",
-    "Year Level": "Irregular",
-    "Mode": "a",
-    "Email": "adaptive2@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Villalon"
+    "surname": "Maniclang",
+    "adaptive_account": "adaptive2@clove.com",
+    "nonadaptive_account": "nonadaptive2@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Recto",
-    "Year Level": "Irregular",
-    "Mode": "a",
-    "Email": "adaptive3@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Recto"
+    "surname": "Abellera",
+    "adaptive_account": "adaptive3@clove.com",
+    "nonadaptive_account": "nonadaptive3@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Manaig",
-    "Year Level": "1st Year",
-    "Mode": "a",
-    "Email": "adaptive4@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Manaig"
+    "surname": "Fojas",
+    "adaptive_account": "adaptive4@clove.com",
+    "nonadaptive_account": "nonadaptive4@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Pancho",
-    "Year Level": "1st Year",
-    "Mode": "a",
-    "Email": "adaptive5@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Pancho"
+    "surname": "Lagnayo",
+    "adaptive_account": "adaptive5@clove.com",
+    "nonadaptive_account": "nonadaptive5@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Eugenio Iglesia",
-    "Year Level": "1st Year",
-    "Mode": "a",
-    "Email": "adaptive6@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Iglesia"
+    "surname": "Epistola",
+    "adaptive_account": "adaptive6@clove.com",
+    "nonadaptive_account": "nonadaptive6@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Ce\u00f1ido, Princess",
-    "Year Level": "1st Year",
-    "Mode": "a",
-    "Email": "adaptive7@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Ce\u00f1ido"
+    "surname": "Violanta",
+    "adaptive_account": "adaptive7@clove.com",
+    "nonadaptive_account": "nonadaptive7@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Abo-abo",
-    "Year Level": "1st Year",
-    "Mode": "a",
-    "Email": "adaptive8@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Abo-abo"
+    "surname": "Rosellon",
+    "adaptive_account": "adaptive8@clove.com",
+    "nonadaptive_account": "nonadaptive8@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Mark Christian Villanueva",
-    "Year Level": "2nd Year",
-    "Mode": "a",
-    "Email": "adaptive9@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Villanueva"
+    "surname": "Mangabat",
+    "adaptive_account": "adaptive9@clove.com",
+    "nonadaptive_account": "nonadaptive9@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Vasquez, Aljrome A. ",
-    "Year Level": "2nd Year",
-    "Mode": "a",
-    "Email": "adaptive10@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Vasquez"
+    "surname": "Laranga",
+    "adaptive_account": "adaptive10@clove.com",
+    "nonadaptive_account": "nonadaptive10@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Karl Mark P. Borboran",
-    "Year Level": "2nd Year",
-    "Mode": "a",
-    "Email": "adaptive11@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Borboran"
+    "surname": "Lado",
+    "adaptive_account": "adaptive11@clove.com",
+    "nonadaptive_account": "nonadaptive11@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Aljon Napa",
-    "Year Level": "2nd Year",
-    "Mode": "a",
-    "Email": "adaptive12@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Napa"
+    "surname": "Buitizon",
+    "adaptive_account": "adaptive12@clove.com",
+    "nonadaptive_account": "nonadaptive12@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Noel E. Mercadal",
-    "Year Level": "2nd Year",
-    "Mode": "a",
-    "Email": "adaptive13@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Mercadal"
+    "surname": "Garilao",
+    "adaptive_account": "adaptive13@clove.com",
+    "nonadaptive_account": "nonadaptive13@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Magallanes, Allen joshua",
-    "Year Level": "3rd Year",
-    "Mode": "a",
-    "Email": "adaptive14@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Magallanes"
+    "surname": "Zaide",
+    "adaptive_account": "adaptive14@clove.com",
+    "nonadaptive_account": "nonadaptive14@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Andrew Dejito",
-    "Year Level": "3rd Year",
-    "Mode": "a",
-    "Email": "adaptive15@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Dejito"
+    "surname": "Nayve",
+    "adaptive_account": "adaptive15@clove.com",
+    "nonadaptive_account": "nonadaptive15@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Hans Lagman",
-    "Year Level": "3rd Year",
-    "Mode": "a",
-    "Email": "adaptive16@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Lagman"
+    "surname": "Zapanta",
+    "adaptive_account": "adaptive16@clove.com",
+    "nonadaptive_account": "nonadaptive16@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "John Llyod Melu",
-    "Year Level": "3rd Year",
-    "Mode": "a",
-    "Email": "adaptive17@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Melu"
+    "surname": "Duran",
+    "adaptive_account": "adaptive17@clove.com",
+    "nonadaptive_account": "nonadaptive17@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Renz Almonte",
-    "Year Level": "3rd Year",
-    "Mode": "a",
-    "Email": "adaptive18@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Almonte"
+    "surname": "Javier",
+    "adaptive_account": "adaptive18@clove.com",
+    "nonadaptive_account": "nonadaptive18@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Kier Christian F. Reyes",
-    "Year Level": "4th Year",
-    "Mode": "a",
-    "Email": "adaptive19@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Reyes"
+    "surname": "Minglana",
+    "adaptive_account": "adaptive19@clove.com",
+    "nonadaptive_account": "nonadaptive19@clove.com",
+    "password": "dangalngbayan"
   },
   {
-    "Name": "Patrick Joshua L. Sios-e",
-    "Year Level": "4th Year",
-    "Mode": "a",
-    "Email": "adaptive20@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Sios-e"
-  },
-  {
-    "Name": "Catayong",
-    "Year Level": "4th Year",
-    "Mode": "a",
-    "Email": "adaptive21@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Catayong"
-  },
-  {
-    "Name": "Delicano",
-    "Year Level": "4th Year",
-    "Mode": "a",
-    "Email": "adaptive22@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Delicano"
-  },
-  {
-    "Name": "Enriquez",
-    "Year Level": "4th Year",
-    "Mode": "a",
-    "Email": "adaptive23@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Enriquez"
-  },
-  {
-    "Name": "Gab Costales",
-    "Year Level": "Irregular",
-    "Mode": "n",
-    "Email": "nonadaptive1@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Costales"
-  },
-  {
-    "Name": "Ryline Azurin",
-    "Year Level": "Irregular",
-    "Mode": "n",
-    "Email": "nonadaptive2@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Azurin"
-  },
-  {
-    "Name": "Aquino ",
-    "Year Level": "1st Year",
-    "Mode": "n",
-    "Email": "nonadaptive3@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Aquino"
-  },
-  {
-    "Name": "Sobrepe\u00f1a",
-    "Year Level": "1st Year",
-    "Mode": "n",
-    "Email": "nonadaptive4@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Sobrepe\u00f1a"
-  },
-  {
-    "Name": "Nel Giron ",
-    "Year Level": "1st Year",
-    "Mode": "n",
-    "Email": "nonadaptive5@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Giron"
-  },
-  {
-    "Name": "Villacruz",
-    "Year Level": "1st Year",
-    "Mode": "n",
-    "Email": "nonadaptive6@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Villacruz"
-  },
-  {
-    "Name": "Raquim Eufem A. Acu\u00f1a",
-    "Year Level": "1st Year",
-    "Mode": "n",
-    "Email": "nonadaptive7@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Acu\u00f1a"
-  },
-  {
-    "Name": "Villaceran, Vincent Angelo U.",
-    "Year Level": "2nd Year",
-    "Mode": "n",
-    "Email": "nonadaptive8@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Villaceran"
-  },
-  {
-    "Name": "Suan, Christopher B.",
-    "Year Level": "2nd Year",
-    "Mode": "n",
-    "Email": "nonadaptive9@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Suan"
-  },
-  {
-    "Name": "Mark Francis B. Entredicho",
-    "Year Level": "2nd Year",
-    "Mode": "n",
-    "Email": "nonadaptive10@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Entredicho"
-  },
-  {
-    "Name": "Ariscon, Nel Xedrik L.",
-    "Year Level": "2nd Year",
-    "Mode": "n",
-    "Email": "nonadaptive11@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Ariscon"
-  },
-  {
-    "Name": "Martin Johnly D",
-    "Year Level": "2nd Year",
-    "Mode": "n",
-    "Email": "nonadaptive12@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "D"
-  },
-  {
-    "Name": "Laderas, Jan Brian",
-    "Year Level": "3rd Year",
-    "Mode": "n",
-    "Email": "nonadaptive13@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Laderas"
-  },
-  {
-    "Name": "SULLA, LEONARD F.",
-    "Year Level": "3rd Year",
-    "Mode": "n",
-    "Email": "nonadaptive14@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "SULLA"
-  },
-  {
-    "Name": "Marc Reantaso",
-    "Year Level": "3rd Year",
-    "Mode": "n",
-    "Email": "nonadaptive15@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Reantaso"
-  },
-  {
-    "Name": "Ryan Lovete",
-    "Year Level": "3rd Year",
-    "Mode": "n",
-    "Email": "nonadaptive16@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Lovete"
-  },
-  {
-    "Name": "Rebecca Sexiona",
-    "Year Level": "3rd Year",
-    "Mode": "n",
-    "Email": "nonadaptive17@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Sexiona"
-  },
-  {
-    "Name": "Charles Delgado ",
-    "Year Level": "4th Year",
-    "Mode": "n",
-    "Email": "nonadaptive18@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Delgado"
-  },
-  {
-    "Name": "Pizarro, John Gerald S.",
-    "Year Level": "4th Year",
-    "Mode": "n",
-    "Email": "nonadaptive19@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Pizarro"
-  },
-  {
-    "Name": "Jeffrey",
-    "Year Level": "4th Year",
-    "Mode": "n",
-    "Email": "nonadaptive20@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Jeffrey"
-  },
-  {
-    "Name": "Silao",
-    "Year Level": "4th Year",
-    "Mode": "n",
-    "Email": "nonadaptive21@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Silao"
-  },
-  {
-    "Name": "Sibayan",
-    "Year Level": "4th Year",
-    "Mode": "n",
-    "Email": "nonadaptive22@clove.com",
-    "Password": "dangalngbayan",
-    "Surname": "Sibayan"
+    "surname": "Saymo",
+    "adaptive_account": "adaptive20@clove.com",
+    "nonadaptive_account": "nonadaptive20@clove.com",
+    "password": "dangalngbayan"
   }
 ]
